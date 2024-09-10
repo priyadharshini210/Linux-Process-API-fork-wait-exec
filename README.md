@@ -61,7 +61,7 @@ int main(void)
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 ![image](https://github.com/user-attachments/assets/6a4d6054-53a5-4e31-8e5d-6392d58701d1)
@@ -113,7 +113,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 ![image](https://github.com/user-attachments/assets/054ddb9b-47c0-4844-b646-a3154a9b7dec)
@@ -177,7 +177,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/5a0d8abe-7ef4-43cb-9fc4-25bbc696b0b1)
 
@@ -198,7 +198,7 @@ int main() {
 
 
 # RESULT:
-Thus the programs are executed successfully.
+
 
 
 The programs are executed successfully.
